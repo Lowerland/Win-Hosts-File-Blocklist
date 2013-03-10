@@ -1,0 +1,1 @@
+My hosts file for blocking some spam & unwanted connections ;)
